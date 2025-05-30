@@ -7,3 +7,6 @@ UNA VEZ EJECUTADO ABRIR EN EL NAVEGADOR http://127.0.0.1:5000/vol USA FLASK PARA
 https://drive.google.com/file/d/1BEXQciFFJl3W8ds5QztZfUuRmOzaZKEB/view?usp=sharing  LINK DE DESCARGA
 
 https://youtu.be/iXugtGM5HVQ
+
+![image](https://github.com/user-attachments/assets/69023299-8da5-4d00-ac97-681170662416)
+
